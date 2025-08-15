@@ -1,0 +1,56 @@
+ML in 2025 
+0. Think like an engineer. 
+1. Diving deep into python. ( learning fundamentals, skipping all advanced theory, building automation projects as quickly as possible ) 
+ - Scripting or scrapping 
+ - Numpy 
+ - Matplotlib 
+ - Pandas 
+ - Get competent working with data sets within python 
+ - basics of API, how to make a very simple one and how to call api's from python 
+ 2. Become data literate 
+ - learn basic sql queries 
+ - some joins 
+ - some select statements 
+ - what actually is SQL? 
+ - Pandas 
+ - advanced operations 
+ - be comfortable working with large sets of data 
+ - visualising data 
+ 3. Start working with AI models immediately 
+ - start working with OpenAI/API 
+ - start working with Claude API 
+ - start working with Ollama 
+ - LangChain 
+ - LangGraph 
+ - building some basic AI agents 
+ - vector databases 
+ - retrieval augmented generation 
+ - Building AI applications 
+ - Working with Streamlit to building simple UI's and data dashboards 
+ 4. Learning The Core Machine Learning and AI Fundamentals ( taking a step back ) 
+ - Start learning ML algorithms 
+  - Regression 
+  - classification 
+  - clustering 
+  - Start looking at libraries like scikit learn 
+   - Learn how to implement machine learning algorithms 
+   - Use them to build basic ML apps 
+ - Start working with things like Neural networks 
+ - Start learning basic computer vision stuff 
+  - Start looking at libraries like pytorch and tensorflow 
+5. LLMs and AI agents 
+- Understand how an LLM works ( e.g. GPT ) 
+- Understand the architecture ( at a high level ) 
+- What can LLMs do? 
+- What they ( LLMs ) cannot do? 
+- black boxes 
+- Learn to use No Code tools 
+ - CrewAI 
+ - Langflow
+ - n8n 
+ - VAPI 
+ - Livekit 
+- Learn about MCP servers 
+ - what are those and how do those works? 
+ - looking into a lot of AI code editors 
+ 
